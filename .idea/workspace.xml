@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d176ff59-462f-4833-bdb7-9dfaf5cac5e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Git-2.21.0-64-bit.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitHubDesktopSetup.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/Cadastra_Hospede.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/Cadastra_Quarto_Master.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/Cadastra_Quarto_Simples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/Cadastra_func.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/Pess/Funcionário.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/Pess/Hospede.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/Pess/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/Prin/Hospedagem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/Prin/Hotel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/Prin/Periodo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/Prod/Master.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/Prod/Quarto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/Prod/Simples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/Salvar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/Cadastra_Hospede.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/Cadastra_Quarto_Master.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/Cadastra_Quarto_Simples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/Cadastra_func.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/Pess/Funcionário.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/Pess/Hospede.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/Pess/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/Prin/Hospedagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/Prin/Hotel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/Prin/Periodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/Prod/Master.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/Prod/Quarto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/Prod/Simples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/Salvar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListaDaFesta/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListaDaFesta/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListaDaFesta/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListaDaFesta/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListaDaFesta/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListaDaFesta/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListaDaFesta/ListaDaFesta.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListaDaFesta/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListaDaFesta/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja_do_Fodase/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja_do_Fodase/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja_do_Fodase/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja_do_Fodase/Loja_do_Fodase.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja_do_Fodase/src/Cadastra_Vendedor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja_do_Fodase/src/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja_do_Fodase/src/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja_do_Fodase/src/Concessionaria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja_do_Fodase/src/GeradorID.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja_do_Fodase/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja_do_Fodase/src/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja_do_Fodase/src/ObterEntradas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja_do_Fodase/src/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja_do_Fodase/src/Venda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja_do_Fodase/src/Vendedor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/Prova20181214.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/arq.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q1/Bluray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q1/CD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q1/Cadastro_aluguel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q1/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q1/DVD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q1/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q1/Locadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q1/Midia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q2/Armazenamento/Recuperar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q2/Armazenamento/Salvar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q2/Dominio/Imobiliaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q2/Gerador/geradorid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q2/Menu/MenuPrincipal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q2/Operacoes/Cadastrar_ap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q2/Operacoes/Cadastrar_casa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q2/Operacoes/Informar_data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q2/Operacoes/Ordena_por_data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q2/Operacoes/Remocao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q2/Produtos/Apartamento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q2/Produtos/Casa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/out/production/Prova20181214/br/edu/ifpb/cg/q2/Produtos/Imovel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/arq.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q1/Bluray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q1/CD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q1/Cadastro_aluguel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q1/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q1/DVD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q1/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q1/Locadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q1/Midia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q2/Armazenamento/Recuperar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q2/Armazenamento/Salvar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q2/Dominio/Imobiliaria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q2/Gerador/geradorid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q2/Menu/MenuPrincipal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q2/Operacoes/Cadastrar_ap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q2/Operacoes/Cadastrar_casa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q2/Operacoes/Informar_data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q2/Operacoes/Ordena_por_data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q2/Operacoes/Remocao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q2/Produtos/Apartamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q2/Produtos/Casa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181214/src/br/edu/ifpb/cg/q2/Produtos/Imovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/Prova20181217.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Armazenamento/Recuperar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Armazenamento/Salvar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Data/Periodo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Dominio/Locacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Dominio/Locadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/GeracaoID/GeradorIDNanoTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Menu/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Midias/BluRay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Midias/CD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Midias/DVD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Midias/Midia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Midias/MidiaFilme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Obter_valores/ObterBoolean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Obter_valores/ObterDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Obter_valores/ObterDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Obter_valores/ObterInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Obter_valores/ObterLong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Obter_valores/ObterString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Pessoal/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Pessoal/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/br/edu/ifpb/cg/q1/Pessoal/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/locadora.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/out/production/Prova20181217/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Armazenamento/Recuperar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Armazenamento/Salvar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Data/Periodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Dominio/Locacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Dominio/Locadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/GeracaoID/GeradorIDNanoTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Menu/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Midias/BluRay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Midias/CD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Midias/DVD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Midias/Midia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Midias/MidiaFilme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Obter_valores/ObterBoolean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Obter_valores/ObterDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Obter_valores/ObterDouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Obter_valores/ObterInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Obter_valores/ObterLong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Obter_valores/ObterString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Pessoal/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Pessoal/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/br/edu/ifpb/cg/q1/Pessoal/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/locadora.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova20181217/src/main.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Cl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sv.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Sv.java" />
+        <option value="$PROJECT_DIR$/src/Cl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Socket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Socket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Socket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Socket" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558694183816" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Cl">
+    <configuration name="Cl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cl" />
+      <module name="Socket" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sv" />
+      <module name="Socket" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Sv" />
+      <item itemvalue="Application.Cl" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cl" />
+        <item itemvalue="Application.Sv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d176ff59-462f-4833-bdb7-9dfaf5cac5e8" name="Default Changelist" comment="" />
+      <created>1558601993132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558601993132</updated>
+      <workItem from="1558602006022" duration="6476000" />
+      <workItem from="1558614442405" duration="1686000" />
+      <workItem from="1558693762951" duration="1059000" />
+      <workItem from="1558696753844" duration="3375000" />
+      <workItem from="1559428205781" duration="1316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13912000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49918166" weight="0.5173979" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="3" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" x="22" y="486" width="1322" height="201" id="Run" order="11" sideWeight="0.5008183" weight="0.35679215" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Sv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
